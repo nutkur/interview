@@ -1,5 +1,7 @@
 /*
 * FEATURE: The following code request a token numbr to download a sruvey from the remote server and stores it into the localstorage.
+
+Please review my code
 */
 
 function getSurveys (req, res) {
